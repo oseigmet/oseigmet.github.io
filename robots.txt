@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oseigmet.github.io/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/app/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/assets/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/css/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/data/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/includes/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/item/sitemap.html.gz
+Sitemap: https://oseigmet.github.io/src/sitemap.html.gz
